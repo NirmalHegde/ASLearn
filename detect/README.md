@@ -1,2 +1,2 @@
-# Sign-Language-Detection
-Programmed an application that allows the client to make certain sign-language gestures in front of a webcam and then prints the corresponding letter.
+# ASLearn
+This app was developed for the Hack the Globe hackathon. Uses Python, Keras, OpenCV, Tensorflow, and NumPy to create a sign language detection app which will recognize hand gestures based on ASL sign language. To be turned into a eLearning app.
